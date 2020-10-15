@@ -5,7 +5,7 @@ body,
   height: 100%;
   margin: 0;
   padding: 0;
-  min-width: 1366px;
+  min-width: 1263px;
 }
 
 .el-breadcrumb {
@@ -24,4 +24,8 @@ body,
 
 .el-pagination {
   margin-top: 15px;
+}
+
+.el-cascader-panel {
+  height: 250px;
 }

@@ -248,7 +248,6 @@ export default {
       }
 
       this.editForm = res.data
-      console.log(this.editForm)
       this.setEditDialogVisible = true
     },
 
